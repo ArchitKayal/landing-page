@@ -4,9 +4,9 @@
     margin: 0;
     padding: 0;
     font-family: 'Roboto Slab', serif;
-    /* border: 2px solid red; */
+    border: 2px solid red;
 }
-
+/* Header and Navbar */
 .header{
     background-color: #1F2937;
 }
@@ -69,4 +69,7 @@ h1{
 .hero-img img{
     width: 500px;
 }
+/* Legendary Moments */
+
+
 

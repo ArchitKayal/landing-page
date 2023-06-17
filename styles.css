@@ -4,7 +4,7 @@
     margin: 0;
     padding: 0;
     font-family: 'Roboto Slab', serif;
-    border: 2px solid red;
+    /* border: 2px solid red; */
 }
 /* Header and Navbar */
 .header{
@@ -70,6 +70,43 @@ h1{
     width: 500px;
 }
 /* Legendary Moments */
+
+.legendary-moments{
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-content: space-around;
+    justify-content: space-evenly;
+    width: 70%;
+    height: 500px;
+}
+
+.moments-header{
+    margin: 10px auto;
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
+}
+
+.pictures{
+    display: flex;
+    justify-content: space-around;
+}
+
+.imgs{
+    width: 200px;
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+}
+
+.legendary-moments p{
+    color: #1f2937;
+    font-size: 16px;
+    font-weight: 500;
+}
 
 
 

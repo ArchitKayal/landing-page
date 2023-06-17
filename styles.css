@@ -20,13 +20,14 @@ nav{
     align-items: center;
 }
 .header-logo{
-    font-size: 24px;
+    font-size: 32px;
     color: #F9FAF8;
     font-weight: 600;
 }
 .nav-links{
-    font-size: 18px;
+    font-size: 24px;
     color: #E5E7EB;
+    font-weight: 600;
 }
 .hero{
     display: flex;

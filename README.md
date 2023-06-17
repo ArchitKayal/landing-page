@@ -1,2 +1,1 @@
-# landing-page
-creating a landing page using flexbox to layout the different elements.
+I have created a Naruto themed landing page using html and css(flexbox).
